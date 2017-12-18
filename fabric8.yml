@@ -1,0 +1,8 @@
+---
+buildName: "test4"
+links:
+  Git: "http://github.com/dotw/test4.git"
+  Job: "http://10.0.0.20:80/job/test4"
+environments:
+  Staging: "devopsns-staging"
+useLocalFlow: true
